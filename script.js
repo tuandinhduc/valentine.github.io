@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Em chắc chưa?",
+    "Chắc thật không??",
+    "Không tinnnn?",
+    "Ngoan xinh yeu oi ❤️",
+    "Cho em 5p nghĩ lại! ",
+    "Anh mách mẹ em...",
+    "Anh mách mẹ em 2 lần...",
+    "Anh mách mẹ em 3 lần...",
+    "Hỏi đến khi mô chịu nói",
+    "Em không thoát được mô!"
 ];
 
 let messageIndex = 0;
